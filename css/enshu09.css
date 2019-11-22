@@ -1,0 +1,36 @@
+
+h1{
+    color:lawngreen;
+    font-family: "impact";
+    text-align: center;
+    background-color: purple
+    
+}
+
+h2#patinko{
+  color:lightcoral;
+    font-family: "impact";
+    text-align: center;
+    background-color: lightblue
+    
+}
+
+h2{
+  color:aqua;
+    font-family: "impact";
+    text-align: center;
+    background-color: lightgreen
+    
+}
+
+h1.patisuro{
+    color:navajowhite;
+    font-family: "impact";
+    text-align: center;
+    background-color: yellow
+    
+}
+body{
+    background-image: url("../images/06.jpg");
+   
+}

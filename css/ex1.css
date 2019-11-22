@@ -1,0 +1,32 @@
+h1{
+    color:gold;
+    font-family: "impact";
+    text-align: center;
+    background-color: red
+    
+}
+h2{
+    color:gold;
+    font-family: "impact";
+    text-align: center;
+    background-color: red
+    
+}
+
+h3{
+    color:gold;
+    font-family: "impact";
+    text-align: center;
+    background-color: red
+    
+}
+table{
+    background-image:url("../images/09.jpg");
+}
+tr{
+    color:white;
+}
+body{
+    background-image: url("../images/06.jpg");
+   
+}
